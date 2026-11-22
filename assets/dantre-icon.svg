@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="dantreIconTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B"/>
+      <stop offset="100%" stop-color="#0F382E"/>
+    </linearGradient>
+    <linearGradient id="dantreIconGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#dantreIconTeal)" stroke="url(#dantreIconGold)" stroke-width="2.5"/>
+  <path d="M19,17 C19,12 25,11 32,13 C39,11 45,12 45,17 C45,24 43,35 40,48 C37,50 35,48 33,39 C32,35 32,35 31,39 C29,48 27,50 24,48 C21,35 19,24 19,17 Z" fill="#FFFFFF"/>
+  <path d="M19,17 C19,12 25,11 32,13 C39,11 45,12 45,17 L45,21 C39,18 25,18 19,21 Z" fill="url(#dantreIconGold)"/>
+  <circle cx="45" cy="15" r="2.5" fill="#FBBF24"/>
+</svg>

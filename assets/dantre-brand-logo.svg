@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64" width="340" height="64" fill="none">
+  <defs>
+    <linearGradient id="dantreTealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B"/>
+      <stop offset="100%" stop-color="#0F382E"/>
+    </linearGradient>
+    <linearGradient id="dantreGoldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="50%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="dantreMintGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left Icon Emblem (Prosthodontic Tooth, Crown & Implant Threads) -->
+  <g transform="translate(6, 4)">
+    <rect x="2" y="2" width="48" height="52" rx="12" fill="url(#dantreTealGrad)" stroke="url(#dantreGoldGrad)" stroke-width="2"/>
+    
+    <!-- Anatomical Molar Silhouette -->
+    <path d="M16,16 C16,12 21,11 26,13 C31,11 36,12 36,16 C36,22 34,31 32,42 C30,44 28,42 27,34 C26,30 26,30 25,34 C24,42 22,44 20,42 C18,31 16,22 16,16 Z" fill="#FFFFFF"/>
+    
+    <!-- Gold Crown Arch -->
+    <path d="M16,16 C16,12 21,11 26,13 C31,11 36,12 36,16 L36,20 C31,17 21,17 16,20 Z" fill="url(#dantreGoldGrad)"/>
+    
+    <!-- Implant Titanium Thread Ribs -->
+    <line x1="22" y1="28" x2="30" y2="28" stroke="#059669" stroke-width="1.8" stroke-linecap="round"/>
+    <line x1="23" y1="32" x2="29" y2="32" stroke="#059669" stroke-width="1.8" stroke-linecap="round"/>
+    <line x1="24" y1="36" x2="28" y2="36" stroke="#059669" stroke-width="1.8" stroke-linecap="round"/>
+    
+    <!-- Sparkle Star Node -->
+    <circle cx="37" cy="14" r="2.2" fill="#FBBF24"/>
+  </g>
+
+  <!-- Main Brand Typography (For Light Background) -->
+  <text x="66" y="27" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="22" fill="#064E3B" letter-spacing="1.2">DANTRE DENTAL</text>
+  <text x="67" y="42" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="9.5" fill="#D97706" letter-spacing="2.2">&amp; IMPLANT CLINIC • BHOPAL</text>
+  <text x="67" y="53" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="600" font-size="7.5" fill="#64748B" letter-spacing="1.4">MISROD • HOSHANGABAD ROAD • ESTD. 2012</text>
+</svg>
